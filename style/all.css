@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	width: 100%;
+}
+
+body {
+	background: url(../img/bg.png) fixed center;
+	background-size: cover;
+	font-family: "YouYuan";
+}
